@@ -1,1 +1,1 @@
-# Data_Science-Cluster_analysis
+K-means clustering for user segmentation based on RFM variables.
